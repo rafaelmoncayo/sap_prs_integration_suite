@@ -1,0 +1,5 @@
+#Store metainfo properties
+#Tue Jul 21 19:00:28 UTC 2026
+description=show how can do Poll-Enrich with SFTP
+source=Postman
+target=SFTP
