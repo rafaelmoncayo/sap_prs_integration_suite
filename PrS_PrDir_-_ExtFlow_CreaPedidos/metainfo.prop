@@ -1,0 +1,5 @@
+#Store metainfo properties
+#Tue Jul 21 18:39:02 UTC 2026
+description=Extension Flow that do specific mapping
+source=FamNaranja
+target=SAPS4HANA
