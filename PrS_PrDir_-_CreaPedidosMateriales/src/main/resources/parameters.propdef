@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><parameters><parameter>
+    <key/>
+    <name>DEFAULT_PEDIDO_REQ_MM</name>
+    <type>xsd:string</type>
+    <isRequired>false</isRequired>
+    <constraint/>
+    <description>Mapeo default para pedido (request)</description>
+    <additionalMetadata/>
+  </parameter><parameter>
+    <key/>
+    <name>DEFAULT_PEDIDO_RESP_MM</name>
+    <type>xsd:string</type>
+    <isRequired>false</isRequired>
+    <constraint/>
+    <description>Mapeo default de la respuesta del pedido</description>
+    <additionalMetadata/>
+  </parameter><parameter>
+    <key/>
+    <name>SAP_RECEIVER</name>
+    <type>xsd:string</type>
+    <isRequired>false</isRequired>
+    <constraint/>
+    <description>Sistema S/4HANA</description>
+    <additionalMetadata/>
+  </parameter><param_references/></parameters>
