@@ -1,0 +1,5 @@
+#Store metainfo properties
+#Tue Jul 21 16:38:26 UTC 2026
+description=Flujo general para la creaci\u00F3n de pedidos (PoC de PrS)
+source=Familia
+target=SAPS4HANA
